@@ -8,7 +8,7 @@ Los alcances son los dominios de bases de datos entre los estudiantes participan
 ### Integrantes
 - Alexa Nicole Marquez Fernandez. 17-3920-2025
 - Juan Alberto Cisneros Ayala. 27-2794-2026
-- Angie Michelle Valencia Ramos 25-1961-2026
+- Claudia Carolina Martinez Perez 25-1225-2025
 
 ### Herramientas utilizadas
 - Github
